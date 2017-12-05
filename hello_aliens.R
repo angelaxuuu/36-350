@@ -1,0 +1,1 @@
+cat("Dear Aliens,\n\tAre you gus also trying to establish connection with the Earth? Does the Earth look like something you expect? Do you guys live in the similar environment as we do on Earth? Do you guys also learn coding?")
